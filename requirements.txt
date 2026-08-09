@@ -1,0 +1,13 @@
+TechStack:-
+• Python Packages:
+1. Scikit-learn
+2. TensorFlow
+3. NumPy
+4. Keras
+5. Mobile2vnet
+6. Pillow
+7. OpenCV
+
+• Hardware:
+1. Arduino UNO R3
+2. USB Camera
